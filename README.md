@@ -11,9 +11,9 @@ The goal of this project is to analyze customer reviews of zomato, a leading foo
 Problem Statement
 zomato receives a large volume of customer reviews daily across platforms such as its app, website, and social media. These reviews often contain valuable feedback regarding delivery speed, food quality, app usability, and customer service. However, manually processing and analyzing these reviews is impractical. Automating sentiment analysis can help:
 
-Identify key areas of improvement.
-Gauge customer satisfaction trends.
-Enable proactive issue resolution.
+- Identify key areas of improvement.
+- Gauge customer satisfaction trends.
+- Enable proactive issue resolution.
 Proposed Solution
 Implement a sentiment analysis system using Natural Language Processing (NLP) and Machine Learning (ML) techniques. The system will process customer reviews, classify sentiments, and visualize insights for business decision-making.
 
@@ -66,10 +66,10 @@ Deploy the model as a REST API for real-time sentiment analysis.
 Integrate with BI tools like Power BI or Tableau for business reporting.
 Tools and Technologies
 Programming Language: Python
-Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, NLTK, SpaCy
-Visualization: Matplotlib, Seaborn, Plotly
-Models: Logistic Regression, SVM, Random Forest, LSTM, BERT
-Deployment: Flask/FastAPI, Docker, AWS/GCP/Azure
+- Libraries: Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, NLTK, SpaCy
+- Visualization: Matplotlib, Seaborn, Plotly
+- Models: Logistic Regression, SVM, Random Forest, LSTM, BERT
+- Deployment: Flask/FastAPI, Docker, AWS/GCP/Azure
 Outcomes
 Customer Sentiment Reports: Categorize reviews into positive, negative, and neutral.
 Actionable Insights: Identify areas for operational improvement (e.g., delivery time, food packaging).
