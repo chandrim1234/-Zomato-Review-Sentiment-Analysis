@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5a0a0027-295d-43a4-9e64-ab184cf7387c) ![image](https://github.com/user-attachments/assets/c7c3c7af-ea5d-411e-abdc-2138afd2be97)
+ ![image](https://github.com/user-attachments/assets/c7c3c7af-ea5d-411e-abdc-2138afd2be97)
 
 
 # -Zomato-Review-Sentiment-Analysis
