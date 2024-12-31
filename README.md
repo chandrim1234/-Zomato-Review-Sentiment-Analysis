@@ -17,11 +17,13 @@ zomato receives a large volume of customer reviews daily across platforms such a
 Proposed Solution
 Implement a sentiment analysis system using Natural Language Processing (NLP) and Machine Learning (ML) techniques. The system will process customer reviews, classify sentiments, and visualize insights for business decision-making.
 
-Methodology
+1.Methodology
 Data Collection
 
-Source: Collect reviews from zomato app, website, or public datasets.
-Data Format: Ensure data includes review text, star ratings, and metadata such as location and timestamp.
+2.Source: 
+Collect reviews from zomato app, website, or public datasets.
+Data Format: 
+3.Ensure data includes review text, star ratings, and metadata such as location and timestamp.
 Data Preprocessing
 
 Remove noise (HTML tags, special characters, URLs).
