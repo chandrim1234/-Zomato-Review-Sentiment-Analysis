@@ -1,14 +1,14 @@
 ![image](https://github.com/user-attachments/assets/5a0a0027-295d-43a4-9e64-ab184cf7387c)
 
 # -Zomato-Review-Sentiment-Analysis
-
 Here’s a comprehensive project description for Zomato Review Sentiment Analysis based on typical components of such projects. This outline should align well with your uploaded notebook file.
 
-Project Title: Zomato Review Sentiment Analysis
+
+# Project Title: Zomato Review Sentiment Analysis
 Objective
 The goal of this project is to analyze customer reviews of zomato, a leading food delivery service, to understand customer sentiment. The analysis aims to categorize reviews into positive, negative, and neutral sentiments, extract actionable insights, and support Swiggy in improving customer experience and satisfaction.
 
-Problem Statement
+# Problem Statement
 zomato receives a large volume of customer reviews daily across platforms such as its app, website, and social media. These reviews often contain valuable feedback regarding delivery speed, food quality, app usability, and customer service. However, manually processing and analyzing these reviews is impractical. Automating sentiment analysis can help:
 
 - Identify key areas of improvement.
