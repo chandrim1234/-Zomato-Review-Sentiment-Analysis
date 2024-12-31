@@ -30,20 +30,19 @@ Implement a sentiment analysis system using Natural Language Processing (NLP) an
 - Handle missing or null data.
 
 # Exploratory Data Analysis (EDA)
+- Understand word distributions and sentiment trends.
+- Visualize most frequent positive/negative words using word clouds.
+- Analyze review lengths, ratings, and time-based trends.
 
-Understand word distributions and sentiment trends.
-Visualize most frequent positive/negative words using word clouds.
-Analyze review lengths, ratings, and time-based trends.
-Sentiment Labeling
+# Sentiment Labeling
+- Rating-Based Labels: Map star ratings to sentiment categories (e.g., 4–5 stars = positive, 1–2 stars = negative, 3 stars = neutral).
+- Manual Labeling: Manually label reviews for additional training data.
 
-Rating-Based Labels: Map star ratings to sentiment categories (e.g., 4–5 stars = positive, 1–2 stars = negative, 3 stars = neutral).
-Manual Labeling: Manually label reviews for additional training data.
-Feature Extraction
+# Feature Extraction
+- Bag of Words (BoW) and TF-IDF for classical models.
+- Pre-trained embeddings (Word2Vec, GloVe, or BERT) for deep learning.
 
-Bag of Words (BoW) and TF-IDF for classical models.
-Pre-trained embeddings (Word2Vec, GloVe, or BERT) for deep learning.
-Model Development
-
+# Model Development
 Train sentiment classification models:
 Classical ML: Logistic Regression, Support Vector Machines (SVM), Random Forest.
 Deep Learning: LSTM, GRU, or Transformers (BERT, RoBERTa).
